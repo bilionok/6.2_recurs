@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest6.2.2.cpp
+D:\program\Lab-6.2(2)\Lab-6.2(2).cpp(57): warning C4715: FindMax: значение возвращается не при всех путях выполнения
+D:\program\Lab-6.2(2)\Lab-6.2(2).cpp(45): warning C4715: FindMin: значение возвращается не при всех путях выполнения
+  LINK : не найден или не выполнена сборка D:\program\Lab-6.2(2)\Debug\UnitTest6.2.2.dll при последней инкрементной компоновке; выполняется полная компоновка
+     Создается библиотека D:\program\Lab-6.2(2)\Debug\UnitTest6.2.2.lib и объект D:\program\Lab-6.2(2)\Debug\UnitTest6.2.2.exp
+  UnitTest6.2.2.vcxproj -> D:\program\Lab-6.2(2)\Debug\UnitTest6.2.2.dll

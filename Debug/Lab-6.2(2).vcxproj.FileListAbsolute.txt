@@ -1,0 +1,4 @@
+C:\Users\Nazar\Desktop\Lab\Lab-6.2(2)\Debug\Lab-6.2(2).exe
+C:\Users\Nazar\Desktop\Lab\Lab-6.2(2)\Debug\Lab-6.2(2).pdb
+D:\program\Lab-6.2(2)\Debug\Lab-6.2(2).exe
+D:\program\Lab-6.2(2)\Debug\Lab-6.2(2).pdb
